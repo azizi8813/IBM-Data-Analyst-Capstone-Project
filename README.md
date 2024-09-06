@@ -45,6 +45,3 @@ The project culminates with a presentation of the data analysis report for vario
 
 ## Acknowledgements
 This project is part of the IBM Data Analyst Professional Certificate on Coursera. Special thanks to the instructors and the IBM team for their guidance and support.
-
-## License
-This project is licensed under the MIT License - see the `LICENSE` file for details.
