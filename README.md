@@ -1,57 +1,50 @@
 # IBM Data Analyst Capstone Project
 
 ## Overview
-By completing this final capstone project, you will apply various Data Analytics skills and techniques that you have learned as part of the previous courses in the IBM Data Analyst Professional Certificate. You will assume the role of an Associate Data Analyst who has recently joined the organization and be presented with a business challenge that requires data analysis to be performed on real-world datasets.
+This repository contains the final capstone project for the IBM Data Analyst Professional Certificate. By completing this project, I applied various Data Analytics skills and techniques learned throughout the course. As an Associate Data Analyst, I was presented with a business challenge requiring data analysis on real-world datasets.
 
 ## Project Tasks
-You will perform the various tasks that professional data analysts do as part of their jobs, including:
-- **Data collection from multiple sources**
-- **Data wrangling and data preparation**
-- **Exploratory data analysis**
-- **Statistical analysis and data mining**
-- **Data visualization with different charts and plots**
-- **Interactive dashboard creation**
+Throughout this project, I performed various tasks that professional data analysts do as part of their jobs, including:
 
-## Final Deliverable
-The project will culminate with a presentation of your data analysis report for various stakeholders in the organization. The report will include:
-- An executive summary
-- Your analysis
-- A conclusion
+- **Data Collection**: Gathering data from multiple sources.
+- **Data Wrangling and Preparation**: Cleaning and preparing the data for analysis.
+- **Exploratory Data Analysis**: Understanding the data through summary statistics and visualizations.
+- **Statistical Analysis and Data Mining**: Applying statistical methods and data mining techniques to uncover insights.
+- **Data Visualization**: Creating charts and plots to visualize the data.
+- **Interactive Dashboard Creation**: Building an interactive dashboard to present the findings.
 
-You will be assessed on both your work for the various stages in the Data Analysis process, as well as the final deliverable.
+## Project Structure
+The project is organized into the following directories:
+
+- `data/`: Contains the raw and processed data files.
+- `notebooks/`: Jupyter notebooks for each stage of the data analysis process.
+- `visualizations/`: Charts and plots created during the analysis.
+- `dashboard/`: Files related to the interactive dashboard.
+- `report/`: The final data analysis report, including the executive summary, analysis, and conclusion.
 
 ## Tools and Technologies
-Throughout this project, you will demonstrate your proficiency with:
-- **Jupyter Notebooks**
-- **SQL**
-- **Relational Databases (RDBMS)**
-- **Business Intelligence (BI) tools like IBM Cognos Analytics**
-- **Python Libraries such as Pandas, Numpy, Scikit-learn, Scipy, Matplotlib, Seaborn**
+The following tools and technologies were used in this project:
 
-## Repository Structure
-- `data/`: Contains the raw data used for analysis.
-- `notebooks/`: Jupyter notebooks for each stage of the data analysis process.
-- `visualizations/`: Charts and plots created during the data visualization stage.
-- `dashboard/`: Files related to the interactive dashboard.
-- `report/`: Final data analysis report and presentation.
+- **Jupyter Notebooks**: For documenting and running the analysis.
+- **Python Libraries**: Including Pandas, Numpy, Scikit-learn, Scipy, Matplotlib, and Seaborn.
+- **SQL and Relational Databases (RDBMS)**: For data storage and querying.
+- **Business Intelligence (BI) Tools**: Such as IBM Cognos Analytics for dashboard creation.
 
-## How to Run
-1. Clone the repository:
-    ```bash
-    git clone https://github.com/yourusername/IBM-Data-Analyst-Capstone-Project.git
-    ```
-2. Navigate to the project directory:
-    ```bash
-    cd IBM-Data-Analyst-Capstone-Project
-    ```
-3. Install the required dependencies:
-    ```bash
-    pip install -r requirements.txt
-    ```
-4. Open the Jupyter notebooks and run the cells to perform the data analysis.
+## Final Deliverable
+The project culminates with a presentation of the data analysis report for various stakeholders in the organization. The report includes:
 
-## Conclusion
-This project is a great addition to your portfolio and an opportunity to showcase your Data Analytics skills to prospective employers. By completing this capstone project, you will have demonstrated your ability to perform end-to-end data analysis, from data collection to presenting your findings.
+- **Executive Summary**: A brief overview of the findings.
+- **Analysis**: Detailed analysis of the data.
+- **Conclusion**: Key takeaways and recommendations based on the analysis.
+
+## How to Run the Project
+1. Clone this repository to your local machine.
+2. Install the required Python libraries using `pip install -r requirements.txt`.
+3. Open the Jupyter notebooks in the `notebooks/` directory to explore the analysis.
+4. View the final report in the `report/` directory.
 
 ## Acknowledgements
-This project is part of the IBM Data Analyst Professional Certificate on Coursera.
+This project is part of the IBM Data Analyst Professional Certificate on Coursera. Special thanks to the instructors and the IBM team for their guidance and support.
+
+## License
+This project is licensed under the MIT License - see the `LICENSE` file for details.
