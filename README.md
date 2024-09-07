@@ -13,15 +13,6 @@ Throughout this project, I performed various tasks that professional data analys
 - **Data Visualization**: Creating charts and plots to visualize the data.
 - **Interactive Dashboard Creation**: Building an interactive dashboard to present the findings.
 
-## Project Structure
-The project is organized into the following directories:
-
-- `data/`: Contains the raw and processed data files.
-- `notebooks/`: Jupyter notebooks for each stage of the data analysis process.
-- `visualizations/`: Charts and plots created during the analysis.
-- `dashboard/`: Files related to the interactive dashboard.
-- `report/`: The final data analysis report, including the executive summary, analysis, and conclusion.
-
 ## Tools and Technologies
 The following tools and technologies were used in this project:
 
